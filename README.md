@@ -2,8 +2,8 @@
 The display handling option controls the display of columns in the table in which data is displayed
  README.md 
 @@ -1 +1,13 @@
-# SS-KU-campus-assignment-Two-Sashwat
-# SS-KU-campus-assignment-Two-Sashwat
+# SS-KU-campus-assignment-Two-SaI 
+# SS-KU-campus-assignment-Two-SaI
 
 Aim -  Create an application to parse the JSON from the API mentioned below.
 
